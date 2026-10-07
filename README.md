@@ -22,40 +22,8 @@ Craps is a dice game played with two six-sided dice. Despite the casino jargon, 
 
 ---
 
-=== Welcome to Craps! ===
+## Sample of the Session
 
-Enter your starting bankroll (e.g. 100): $100
-
-Your starting bankroll is $100
-
-Enter your wager (1-100): $25
-
-Player rolled 3 + 4 = 7
-
-*** You WON! Bankroll: $125 ***
-
-Play another round? (y/n): y
-
-Enter your wager (1-125): $50
-
-Player rolled 5 + 3 = 8
-
-Point is 8
-
-Player rolled 2 + 1 = 3
-
-Player rolled 6 + 2 = 8
-
-*** You WON! Bankroll: $175 ***
-
-Play another round? (y/n): y
-
-Enter your wager (1-175): $175
-
-Player rolled 1 + 1 = 2
-
-*** You LOST. Bankroll: $0 ***
-
-You're out of money! Game over.
-
-Thanks for playing! You cashed out with $0.
+<div align="center">
+	<img src="">
+</div>
